@@ -5,7 +5,7 @@
 ## Contacts
 
 - **Location:** Tashkent, Uzbekistan
-- **E-mail:** ifathullaev_1v@mail.ru
+- **E-mail:** ifathullaev_1@mail.ru
 - **GitHub:** 00010035
 - **Telegram:** @f_ibroxim
 
