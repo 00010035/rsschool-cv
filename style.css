@@ -1,4 +1,11 @@
-*,
+*{
+  box-sizing: inherit;
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+  padding: 0 auto;
+
+}
 *:before,
 *:after {
   box-sizing: inherit;
@@ -8,4 +15,12 @@
 
 body {
   padding: 10px;
+}
+ul li{
+  list-style: none;
+  display: inline-block;
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: center;
+  align-items: center;
 }
